@@ -83,7 +83,8 @@ After setting it up, I accessed the OEM dashboard for monitoring and management 
 
 
 ## OEM Dashboard:
-![OEM_Login page (72)](https://github.com/user-attachments/assets/d925c561-ac1c-4b6f-8796-36f3606715d3)
+![Oracle_Entrepr dshboardt (70)](https://github.com/user-attachments/assets/b29409de-547d-4f3f-b4b6-dd59829ce8ee)
+
 ## OEM Table Dashboard:
 ![OEM_Table dashboard (73)](https://github.com/user-attachments/assets/4fa98900-eafa-46fb-b5bf-c1f34c79336a)
 
