@@ -69,15 +69,23 @@ After setting it up, I accessed the OEM dashboard for monitoring and management 
 
 ## PDB Creation:
 
-![PDB Created](https://github.com/Arnaudnshuti/Ar_plsql_class2024db/blob/main/screenshots/pdb_created.png?raw=true)
+![pdb_created(66)](https://github.com/user-attachments/assets/ba8fda20-73c7-41cc-a72a-020ab85d32c3)
 
 
 ## PDB Deletion:
 
-![PDB Dropped](https://github.com/Arnaudnshuti/Ar_plsql_class2024db/blob/main/screenshots/pdb_dropped.png?raw=true)
+![pdb_dropped(65)](https://github.com/user-attachments/assets/9ff6b15a-aec2-4357-b1c1-28deb25fe8c2)
+## OEM Checking the host:
+![checking hostt (68)](https://github.com/user-attachments/assets/4566d1d8-4149-4782-b5b0-41ec638515de)
+
+## OEM Login_page:
+![OEM_Login page (72)](https://github.com/user-attachments/assets/426ea00e-07e7-4096-9e9b-684e7e29eefd)
+
 
 ## OEM Dashboard:
-![OEM Dashboard](https://github.com/Arnaudnshuti/Ar_plsql_class2024db/blob/main/screenshots/Oracle_Entrepr_dashboard.png?raw=true)
+![OEM_Login page (72)](https://github.com/user-attachments/assets/d925c561-ac1c-4b6f-8796-36f3606715d3)
+## OEM Table Dashboard:
+![OEM_Table dashboard (73)](https://github.com/user-attachments/assets/4fa98900-eafa-46fb-b5bf-c1f34c79336a)
 
 ## Contributing
 
